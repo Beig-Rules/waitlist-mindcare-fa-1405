@@ -1,2 +1,5 @@
-# waitlist-mindcare-fa-1405
-لیست انتظار اپ سلامت روان فارسی
+# لیست انتظار مایندکیر
+
+https://beig-rules.github.io/waitlist-mindcare-fa-1405/
+
+© Beig-Rules
